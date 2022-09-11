@@ -9,6 +9,6 @@ The CHI Center was one of 10 CSII grantee projects nationwide from 2020 to 2022.
 1. [Systems Thinking Toolkit](https://github.com/CBSDLab/CSII/blob/main/CSII%20Systems%20Thinking%20Toolkit%20v6.pdf)
 2. Systems Change for Racial Equity (SCORE) model
     * [Overview of SCORE model](https://github.com/CBSDLab/CSII/blob/peterhovmand-content-additions-01/CSII%20model%20brief%202%20October%2025%2C%202021%20v1.pdf)
-    * [Online interface to SCORE model](https://exchange.iseesystems.com/public/psh/score/index.html#page1)
-3. Health and Healthcare model
-    * [Stella .stmx model](https://github.com/CBSDLab/CSII/blob/peterhovmand-content-additions-01/Models/Health%20and%20Healthcare/CHW%20logic%20model%20v5-4.stmx) 
+    * [Online interface to the model](https://exchange.iseesystems.com/public/psh/score/index.html#page1)
+3. Community Healthcare model
+    * [Oneline interface to the model](https://exchange.iseesystems.com/public/psh/community-health-worker/index.html#page1)
